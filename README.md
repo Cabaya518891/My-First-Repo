@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geraldine Cabaya</h1>
-<h3 align="center">I’m a curious developer who believes that every problem is an opportunity to build something better. With a background in IT and experience working with Laravel, PHP, databases, data processing, and machine learning, I love transforming ideas into useful and meaningful applications. I’m constantly exploring new technologies, solving challenges, and creating systems that connect technology with real-world needs. Code, learn, build, improve, repeat.</h3>
+<h3 align="center">I’m curious developer who believes that every problem is an opportunity to build something better. With a background in IT and experience working with Laravel, PHP, databases, data processing, and machine learning, I love transforming ideas into useful and meaningful applications. I’m constantly exploring new technologies, solving challenges, and creating systems that connect technology with real-world needs. Code, learn, build, improve, repeat.</h3>
 
 - 🔭 I’m currently working on [NutriTrack](https://nutritrack-40yx.onrender.com/)
 
